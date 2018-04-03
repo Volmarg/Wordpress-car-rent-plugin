@@ -1,6 +1,6 @@
 # Wordpress car rent plugin
 
-![alt text](https://raw.githubusercontent.com/Volmarg/Seo-tool-Grease-Monkey-Tampermonkey/master/screenshot.jpg)
+![alt text](https://github.com/Volmarg/Wordpress-car-rent-plugin/blob/master/screenshot.png?raw=true)
 
 Wordpress plugin created for car pickups renting. 
 Looks simple but contains:
