@@ -1,7 +1,5 @@
 # Wordpress car rent plugin
 
-![alt text](https://github.com/Volmarg/Wordpress-car-rent-plugin/blob/master/screenshot.png?raw=true)
-
 Wordpress plugin created for car pickups renting. 
 Looks simple but contains:
 - parser for dates/season/price range table,
@@ -13,3 +11,5 @@ Looks simple but contains:
 - backend editor of prices/seasons/user requests/car types/descriptions etc.
 
 Can't provide full code as it was made on demand - only sample.
+
+![alt text](https://github.com/Volmarg/Wordpress-car-rent-plugin/blob/master/screenshot.png?raw=true)
