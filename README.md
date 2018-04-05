@@ -10,6 +10,6 @@ Looks simple but contains:
 - RWD,
 - backend editor of prices/seasons/user requests/car types/descriptions etc.
 
-Can't provide full code as it was made on demand - only sample.
+Can't provide full code as it was made on demand for https://cargo-group.pl/ (if still exists)- only sample.
 
 ![alt text](https://github.com/Volmarg/Wordpress-car-rent-plugin/blob/master/screenshot.png?raw=true)
