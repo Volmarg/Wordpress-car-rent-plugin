@@ -11,5 +11,6 @@ Looks simple but contains:
 - backend editor of prices/seasons/user requests/car types/descriptions etc.
 
 Can't provide full code as it was made on demand for https://cargo-group.pl/ (if still exists)- only sample.
+Script can be tested at: http://projekt-rezerwacja-aut-wp.volmarg.hekko24.pl/
 
 ![alt text](https://github.com/Volmarg/Wordpress-car-rent-plugin/blob/master/screenshot.png?raw=true)
